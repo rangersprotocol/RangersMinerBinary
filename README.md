@@ -4,7 +4,7 @@ Rangers miner executable program.
 
 ### Usages:
 
-1.Download the ranger_node in the main branch or int the latest tag.  
+1.Download the ranger_node in the main branch or in the latest tag.  
 2.Run the shell run.sh.
 
 ### Runtime Environment:
