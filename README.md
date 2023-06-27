@@ -16,5 +16,5 @@ Disk Capacity: 1TB
 Network Bandwidth: 100MB/s  
 
 ### Latest Version  
-1.0.13
-md5:1e4072d8772d84a53460842541c98b02
+1.0.14
+md5:854dcb1cfd432194687b6884c9eddc94
