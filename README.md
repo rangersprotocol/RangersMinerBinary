@@ -5,6 +5,8 @@ Rangers miner executable program.
 ### Usages:
 
 1.Download the ranger_node in the main branch or in the latest tag.  
+You can also get the binary by downloading [the latest release source code](https://github.com/rangersprotocolcode/go-rangers/releases) and compiling it. 
+
 2.Run the shell run.sh.
 
 ### Runtime Environment:
